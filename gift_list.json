@@ -30,6 +30,12 @@
       "price": 50,
       "sticker_number": 5,
       "debug_name": "Валентинка на 14 февраля"
+    },
+    {
+      "id": 5893356958802511476,
+      "price": 50,
+      "sticker_number": 6,
+      "debug_name": "Мишка леприкон"
     }
   ]
 }
