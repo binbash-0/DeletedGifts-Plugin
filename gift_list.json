@@ -42,6 +42,12 @@
       "price": 50,
       "sticker_number": 7,
       "debug_name": "Мишка на 1 апреля"
+    },
+    {
+      "id": 5969796561943660080,
+      "price": 50,
+      "sticker_number": 8,
+      "debug_name": "Мишка на пасху"
     }
   ]
 }
