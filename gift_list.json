@@ -48,6 +48,12 @@
       "price": 50,
       "sticker_number": 8,
       "debug_name": "Мишка на пасху"
+    },
+    {
+      "id": 6026193266406327981,
+      "price": 50,
+      "sticker_number": 9,
+      "debug_name": "Мишка строитель"
     }
   ]
 }
