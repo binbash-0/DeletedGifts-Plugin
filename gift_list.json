@@ -54,6 +54,12 @@
       "price": 50,
       "sticker_number": 9,
       "debug_name": "Мишка строитель"
+    },
+    {
+      "id": 5974210632977745012,
+      "price": 50,
+      "sticker_number": 10,
+      "debug_name": "Мишка на чемпионате"
     }
   ]
 }
