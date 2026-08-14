@@ -60,6 +60,12 @@
       "price": 50,
       "sticker_number": 10,
       "debug_name": "Мишка на чемпионате"
+    },
+    {
+      "id": 6046178578163303744,
+      "price": 50,
+      "sticker_number": 11,
+      "debug_name": "Мишка террорист"
     }
   ]
 }
